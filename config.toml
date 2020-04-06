@@ -1,5 +1,5 @@
 s title = "Jamie's Website Attempt"
-baseURL = "/hugo-website"
+baseURL = "C:\Users\Jamie Freese\Desktop\myproject"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
